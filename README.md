@@ -12,5 +12,5 @@ YOLOv12-onCppQt6 🔍📦 把 YOLOv12 塞进 100 MB 的跨端“小盒子”—�
 3、值得注意的是，由于opencv官方并不兼容mingw，opencv编译之后，还需要进行调整在”opencv\\x64\\mingw\\bin“中的”libopencv\_world481.dll“我使用了别的特殊方式编译，我将它放在了opencv文件夹下，需要使用它替换原有的libopencv\_world481.dll
 具体参考：https://blog.csdn.net/JCYAO\_/article/details/148140672
 
-
+QQ交流群：870790039
 
